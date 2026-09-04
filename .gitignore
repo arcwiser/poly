@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Test / tooling
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Local artifact storage
+~/.polylab/
+.artifacts/
+
+# Build outputs
+*.exe
+hello
+hello_seed_*
+transformed.ll
+input.ll
+optimized.ll
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config
+.env

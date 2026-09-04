@@ -1,0 +1,2 @@
+# No external dependencies required.
+# The client uses only the Python standard library (urllib, json, hashlib, etc.)
